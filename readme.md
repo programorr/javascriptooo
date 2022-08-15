@@ -1,5 +1,5 @@
 <h1 align="center">Welcome -- My name is Steven</h1>
 
-<h2>ABOUT ME</h2>
+**ABOUT ME**
 
-I am an aspiring Frontend Developer.
+I am an aspiring Frontend Developer.  More to follow.
