@@ -1,10 +1,8 @@
-<h1 align="center">Welcome -- My name is Steven</h1>
+<h1 align="center">About Me</h1>
 
-# ABOUT ME
+My name is Steven.  I am an *aspiring* __Frontend Developer__.  More to follow...
 
-I am an *aspiring* __Frontend Developer__.  More to follow...
-
-# CERTIFICATIONS
+<h1 align="center">CERTIFICATIONS</h1>
 
 1. [CERTIFIED __HTML__ DEVELOPER (W3)](https://github.com/javascriptooo/javascriptooo/blob/9c2fa3dc1b45417b6ad59ba5902702a70336aabb/certifications/certificate_of_completion_html.pdf)
 
