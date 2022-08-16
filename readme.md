@@ -8,7 +8,7 @@ My name is Steven.  I am an *aspiring* __Frontend Developer__.  More to follow..
 
 # PROJECTS
 
-### FRONTENDMENTOR.IO
+### [FRONTENDMENTOR.IO](https://github.com/javascriptooo/frontendmentorio)
 
 Challenges
 1. [QR Code Component](https://jsooo-fe-mentor-qr-code-component.netlify.app)
@@ -18,4 +18,4 @@ Challenges
 5. [Profile Card Component](https://jsooo-fe-mentor-profile-card-comp.netlify.app/)
 6. Skilled E-Learning Landing Page - In Progress
 
-### SCRIMBA
+### [SCRIMBA](https://github.com/javascriptooo/scrimba)
