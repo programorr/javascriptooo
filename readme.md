@@ -1,4 +1,4 @@
-<h1 align="center">About Me</h1>
+<h1 align="center">ABOUT</h1>
 
 My name is Steven.  I am an *aspiring* __Frontend Developer__.  More to follow...
 
