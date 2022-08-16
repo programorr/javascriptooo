@@ -1,6 +1,6 @@
 # ABOUT
 
-My name is Steven.  I am an *aspiring* __Frontend Developer__.  More to follow...
+My name is Steven.  I am an __Frontend Developer__.  More to follow...
 
 # CERTIFICATIONS
 
