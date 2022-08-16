@@ -4,7 +4,7 @@ My name is Steven.  I am an *aspiring* __Frontend Developer__.  More to follow..
 
 # CERTIFICATIONS
 
-1. [LEARN PROGRAMMING ONLINE](https://github.com/javascriptooo/javascriptooo/blob/a924394caf5d929757688ae4b807bb2ef156b97e/certifications/Learn%20Programming.pdf)
+1. [LEARN PROGRAMMING ONLINE (Jad Joubran)](https://github.com/javascriptooo/javascriptooo/blob/a924394caf5d929757688ae4b807bb2ef156b97e/certifications/Learn%20Programming.pdf)
 2. [CODE FOUNDATIONS SKILL PATH (Codecademy)](https://github.com/javascriptooo/javascriptooo/blob/a924394caf5d929757688ae4b807bb2ef156b97e/certifications/Code%20Foundations%20Skill%20Path.pdf)
 3. [CERTIFIED __HTML__ DEVELOPER (W3)](https://github.com/javascriptooo/javascriptooo/blob/9c2fa3dc1b45417b6ad59ba5902702a70336aabb/certifications/certificate_of_completion_html.pdf)
 
