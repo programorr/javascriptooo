@@ -1,14 +1,14 @@
-<h1 align="center">ABOUT</h1>
+# ABOUT
 
 My name is Steven.  I am an *aspiring* __Frontend Developer__.  More to follow...
 
-<h1 align="center">CERTIFICATIONS</h1>
+# CERTIFICATIONS
 
 1. [CERTIFIED __HTML__ DEVELOPER (W3)](https://github.com/javascriptooo/javascriptooo/blob/9c2fa3dc1b45417b6ad59ba5902702a70336aabb/certifications/certificate_of_completion_html.pdf)
 
-<h1 align="center">PROJECTS</h1>
+# PROJECTS
 
-# FRONTENDMENTOR.IO
+### FRONTENDMENTOR.IO
 
 Challenges
 1. [QR Code Component](https://jsooo-fe-mentor-qr-code-component.netlify.app)
@@ -18,4 +18,4 @@ Challenges
 5. [Profile Card Component](https://jsooo-fe-mentor-profile-card-comp.netlify.app/)
 6. Skilled E-Learning Landing Page - In Progress
 
-# SCRIMBA
+### SCRIMBA
