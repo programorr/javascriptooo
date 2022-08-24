@@ -6,7 +6,7 @@ My name is Steven.  I am a __Frontend Developer__.  More to follow...
 
 1. [LEARN PROGRAMMING ONLINE (Jad Joubran)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/Learn%20Programming.pdf)
 2. [CODE FOUNDATIONS SKILL PATH (Codecademy)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/Code%20Foundations%20Skill%20Path.pdf)
-3. [CERTIFIED __HTML__ DEVELOPER (W3)](hhttps://github.com/javascriptooo/javascriptooo/blob/master/certifications/certificate_of_completion_html_steven_orr.pdf)
+3. [CERTIFIED __HTML__ DEVELOPER (W3)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/certificate_of_completion_html_steven_orr.pdf)
 4. [CERTIFIED __CSS__ DEVELOPER (W3)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/certificate_of_completion_css_steven_orr.pdf)
 
 
