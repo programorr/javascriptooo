@@ -4,10 +4,12 @@ My name is Steven.  I am a __Frontend Developer__.  More to follow...
 
 # CERTIFICATIONS
 
-1. [LEARN PROGRAMMING ONLINE (Jad Joubran)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/Learn%20Programming.pdf)
-2. [CODE FOUNDATIONS SKILL PATH (Codecademy)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/Code%20Foundations%20Skill%20Path.pdf)
-3. [CERTIFIED __HTML__ DEVELOPER (W3)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/certificate_of_completion_html_steven_orr.pdf)
-4. [CERTIFIED __CSS__ DEVELOPER (W3)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/certificate_of_completion_css_steven_orr.pdf)
+1. [LEARN PROGRAMMING ONLINE (Jad Joubran)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/certificate_of_completion_learn_programming_online_steven_orr.pdf)
+2. [LEARN HOW TO CODE (Codecademy)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/certificate_of_completion_learn_how_to_code_course_steven_orr.pdf)
+3. [CODE FOUNDATIONS SKILL PATH (Codecademy)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/certificate_of_completion_code_foundations_skill_path_steven_orr.pdf)
+4. [LEARN JAVASCRIPT (Codecademy)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/certificate_of_completion_learn_javascript_course_steven_orr.pdf)
+5. [CERTIFIED __HTML__ DEVELOPER (W3)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/certificate_of_completion_html_steven_orr.pdf)
+6. [CERTIFIED __CSS__ DEVELOPER (W3)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/certificate_of_completion_css_steven_orr.pdf)
 
 
 # PROJECTS
