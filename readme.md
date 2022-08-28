@@ -2,6 +2,7 @@
 
 My name is Steven.  I am a __Frontend Developer__.  More to follow...
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 
 <i class="devicon-html5-plain-wordmark colored"></i>
