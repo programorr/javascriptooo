@@ -2,6 +2,13 @@
 
 My name is Steven.  I am a __Frontend Developer__.  More to follow...
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+
+
 # CERTIFICATIONS
 
 1. [LEARN PROGRAMMING ONLINE (Jad Joubran)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/certificate_of_completion_learn_programming_online_steven_orr.pdf)
