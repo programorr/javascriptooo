@@ -15,7 +15,8 @@ My name is Steven.  I am a __Frontend Developer__.  More to follow...
 4. [LEARN JAVASCRIPT (Codecademy)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/certificate_of_completion_learn_javascript_course_steven_orr.pdf)
 5. [CERTIFIED __HTML__ DEVELOPER (W3)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/certificate_of_completion_html_steven_orr.pdf)
 6. [CERTIFIED __CSS__ DEVELOPER (W3)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/certificate_of_completion_css_steven_orr.pdf)
-7. [LEARN MARKDOWN (Scrimba)](https://scrimba.com/learn/markdownblog)
+7. [CERTIFIED MASTER OF __CSS__ Basics (CSSBattle)](https://github.com/javascriptooo/javascriptooo/blob/master/certifications/certified_master_of_css_basics_cssbattledev_steven_orr.png)
+8. [LEARN MARKDOWN (Scrimba)](https://scrimba.com/learn/markdownblog)
 
 
 # PROJECTS
