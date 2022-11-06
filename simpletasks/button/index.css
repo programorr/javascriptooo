@@ -1,0 +1,49 @@
+:root {
+    --border-radius: 7px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    font-family: Verdana, serif;
+    font-weight: bolder;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.score-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    max-width: 200px;
+    width: 100%;
+    margin: 10px;
+    font-size: 50px;
+    /*border: 2px dashed red;*/
+    border-radius: var(--border-radius);
+    background-color: #efefef;
+}
+
+.btn {
+    border: none;
+    border-radius: var(--border-radius);
+    min-width: 100px;
+    height: 50px;
+    font-size: 24px;
+}
+
+.btn:hover, btn:focus {
+    background-color: aqua;
+}
+
