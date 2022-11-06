@@ -7,6 +7,7 @@
 }
 
 body, html {
+    background-color: #888;
     font-family: Verdana, serif;
     font-weight: bolder;
     padding: 0;
@@ -40,10 +41,18 @@ body, html {
     border-radius: var(--border-radius);
     min-width: 100px;
     height: 50px;
-    font-size: 24px;
+    font-size: 25px;
+    font-weight: bolder;
+    box-shadow: 0 5px rgba(0,0,0,0.15);
 }
 
-.btn:hover, btn:focus {
-    background-color: aqua;
+.btn:hover {
+    background-color: rgba(255,0,0,0.50);
+    color: #fff;
+}
+
+.btn:active {
+    box-shadow: 0 2px rgba(0,0,0,0.15);
+    transform: translateY(4px);
 }
 
