@@ -147,6 +147,7 @@ const searchWordHandler = async () => {
         arpabet.textContent = await pronTextWithoutDigits
         arpaType.textContent = toArpaType(pronTextWithoutDigits)
         arpaCat.textContent = toArpaCat(pronTextWithoutDigits)
+        word.value = ''
     } catch (error) {
         console.log(error);
     }
@@ -156,5 +157,6 @@ const searchWordHandler = async () => {
 
 // Trigger 'searchWord' function on search word form submit
 word.addEventListener('change', (e) => {
+
     return searchWordHandler(e.target.value)
 });
