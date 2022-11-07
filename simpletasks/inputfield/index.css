@@ -1,0 +1,44 @@
+
+:root {
+    --back-color: #efefef;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+hr {
+    width: 100%;
+    border: 3px dashed #efefef
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+input, .wordSpan{
+    min-width: 400px;
+    text-align: center;
+    font-size: 24px;
+    font-family: Verdana, Serif;
+    border: none;
+    background-color: var(--back-color);
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+/*.wordSpan {*/
+/*    width: 200px;*/
+/*    text-align: center;*/
+/*    font-size: 24px;*/
+/*    !*border: 2px dashed red;*!*/
+/*    background-color: var(--back-color);*/
+/*    border-radius: 5px;*/
+/*    margin: 10px 0;*/
+/*}*/

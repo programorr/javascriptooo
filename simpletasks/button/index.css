@@ -56,3 +56,19 @@ body, html {
     transform: translateY(4px);
 }
 
+.btn-off {
+    border: none;
+    border-radius: var(--border-radius);
+    min-width: 100px;
+    height: 50px;
+    font-size: 25px;
+    font-weight: bolder;
+    box-shadow: 0 5px rgba(0,0,0,0.15);
+}
+
+.btn-off:hover {
+    background-color: aqua;
+}
+
+.btn-off:active {
+}
